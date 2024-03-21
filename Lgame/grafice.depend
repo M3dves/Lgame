@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1705238898 source:c:\users\denis\desktop\grafice\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<stdlib.h>
+
+1705427257 source:c:\users\denis\desktop\bonol\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<stdlib.h>
+
